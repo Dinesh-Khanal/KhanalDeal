@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\bin\Debug\net5.0\KhanalDeal.Data.deps.json
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\bin\Debug\net5.0\KhanalDeal.Data.runtimeconfig.json
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\bin\Debug\net5.0\KhanalDeal.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\bin\Debug\net5.0\KhanalDeal.Data.dll
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\bin\Debug\net5.0\ref\KhanalDeal.Data.dll
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\bin\Debug\net5.0\KhanalDeal.Data.pdb
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.dll
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\ref\KhanalDeal.Data.dll
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.pdb
+C:\Users\hp\source\repos\KhanalDeal\KhanalDeal.Data\obj\Debug\net5.0\KhanalDeal.Data.genruntimeconfig.cache

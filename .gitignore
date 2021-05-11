@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/KhanalDeal/config/applicationhost.config
+/.vs/slnx.sqlite
+/KhanalDeal.Data/bin/Debug/net5.0/ref/KhanalDeal.Data.dll
+/KhanalDeal.Data/bin/Debug/net5.0
+/KhanalDeal.Entities/bin/Debug/net5.0
+/KhanalDeal.Entities/obj/Debug/net5.0/ref
+/KhanalDeal.Web/bin
+/KhanalDeal.Web/obj/Debug
+/KhanalDeal.Entities/obj
