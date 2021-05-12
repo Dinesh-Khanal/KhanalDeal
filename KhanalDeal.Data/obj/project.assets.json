@@ -1030,11 +1030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\KhanalDeal\\KhanalDeal.Data\\KhanalDeal.Data.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Source\\Repos\\KhanalDeal\\KhanalDeal.Data\\KhanalDeal.Data.csproj",
       "projectName": "KhanalDeal.Data",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\KhanalDeal\\KhanalDeal.Data\\KhanalDeal.Data.csproj",
+      "projectPath": "C:\\Users\\hp\\Source\\Repos\\KhanalDeal\\KhanalDeal.Data\\KhanalDeal.Data.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\KhanalDeal\\KhanalDeal.Data\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Source\\Repos\\KhanalDeal\\KhanalDeal.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1083,7 +1083,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
