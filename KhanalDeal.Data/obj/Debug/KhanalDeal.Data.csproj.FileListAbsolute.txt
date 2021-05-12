@@ -1,0 +1,17 @@
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\KhanalDeal.Data.dll.config
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\KhanalDeal.Data.dll
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\KhanalDeal.Data.pdb
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\EntityFramework.dll
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\KhanalDeal.Entities.dll
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\KhanalDeal.Entities.pdb
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\KhanalDeal.Entities.dll.config
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\EntityFramework.xml
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\obj\Debug\KhanalDeal.Data.csprojAssemblyReference.cache
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\obj\Debug\KhanalDeal.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\obj\Debug\KhanalDeal.Data.csproj.CopyComplete
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\obj\Debug\KhanalDeal.Data.dll
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\obj\Debug\KhanalDeal.Data.pdb
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\obj\Debug\KhanalDeal.Data.Migrations.InitialCreate.resources
+C:\Users\hp\Source\Repos\KhanalDeal\KhanalDeal.Data\obj\Debug\KhanalDeal.Data.csproj.GenerateResource.cache
